@@ -140,5 +140,5 @@ Please take care of yourself. Do your best to maintain a healthy lifestyle this 
 
 ## Attribution
 
-Material throughout is sourced from previous additions by [Pat Virtue](https://www.cs.cmu.edu/~10606-f21/), [Geoff Gordon](http://www.cs.cmu.edu/~ggordon/10606s22/syllabus-and-lecture-outline.html), [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/10606607_M20/), and [Hoda Heidari](https://www.cs.cmu.edu/~10606-f22/).
+Material throughout is sourced from previous editions by [Pat Virtue](https://www.cs.cmu.edu/~10606-f21/), [Geoff Gordon](http://www.cs.cmu.edu/~ggordon/10606s22/syllabus-and-lecture-outline.html), [Leila Wehbe](https://www.cs.cmu.edu/~lwehbe/10606607_M20/), and [Hoda Heidari](https://www.cs.cmu.edu/~10606-f22/).
 
