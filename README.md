@@ -110,8 +110,6 @@ If you have a disability and have an accommodations letter from the Disability R
 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep, and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus. Please take advantage of them to support your overall health and wellness during challenging and stressful times (see, for example, Counseling and Psychological Services).
 
-**An overview of the schedule is given below. For a detailed schedule, including readings for each day, see the final section of this page**.
-
 ## Course Schedule
 
 | Week | Dates       | Topic                                               | Assignments                              |
