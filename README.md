@@ -120,23 +120,23 @@ Please take care of yourself. Do your best to maintain a healthy lifestyle this 
 | 1    | Wed: Aug 30  | Data types and functions||
 | 1    | Fri: Sep 1  | Recitation|Homework 1 due|
 | 2    | Mon: Sep 4  | No class (Labor day)||
-| 2    | Wed: Sep 6  | TBD||
-| 2    | Fri: Sep 8  | Recitation|Homework 2 due|
-| 3    | Mon: Sep 11  | TBD||
-| 3    | Wed: Sep 13  | TBD||
-| 3    | Fri: Sep 15  | Recitation|Homework 3 due|
-| 4    | Mon: Sep 18  | TBD||
-| 4    | Wed: Sep 20  | TBD||
-| 4    | Fri: Sep 22  | Recitation|Homework 4 due|
-| 5    | Mon: Sep 25  | TBD||
-| 5    | Wed: Sep 27  | TBD||
-| 5    | Fri: Sep 29  | Recitation|Homework 5 due|
-| 6    | Mon: Oct 2  | TBD||
-| 6    | Wed: Oct 4  | TBD||
-| 6    | Fri: Oct 6  | Recitation|Homework 6 due|
-| 7    | Mon: Oct 9  | TBD||
-| 7    | Wed: Oct 11  | TBD||
-| 7    | Fri: Oct 13  | No recitation |Homework 7 due|
+| 2    | Wed: Sep 6  | Linear algebra foundations||
+| 2    | Fri: Sep 8  | Recitation||
+| 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces||
+| 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination| Homework 2 due|
+| 3    | Fri: Sep 15  | Recitation||
+| 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression||
+| 4    | Wed: Sep 20  | Matrix calculus|Homework 3 due|
+| 4    | Fri: Sep 22  | Recitation||
+| 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
+| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization|Homework 4 due|
+| 5    | Fri: Sep 29  | Recitation||
+| 6    | Mon: Oct 2  | Probability||
+| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions|Homework 5 due|
+| 6    | Fri: Oct 6  | Recitation||
+| 7    | Mon: Oct 9  | Bayes' rule, maximum likelihood and MAP estimators||
+| 7    | Wed: Oct 11  | Moments, independence, correlation + review||
+| 7    | Fri: Oct 13  | __Quiz 3__ |Homework 6 due|
 
 ## Attribution
 
