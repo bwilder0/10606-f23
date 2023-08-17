@@ -116,7 +116,7 @@ Please take care of yourself. Do your best to maintain a healthy lifestyle this 
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Mon: Aug 28  | Class intro, sets||
 | 1    | Wed: Aug 30  | Data types and functions||
-| 1    | Fri: Sep 1  | Recitation|Homework 1 due|
+| 1    | Fri: Sep 1  | No recitation|Homework 1 due|
 | 2    | Mon: Sep 4  | No class (Labor day)||
 | 2    | Wed: Sep 6  | Linear algebra foundations||
 | 2    | Fri: Sep 8  | Recitation||
