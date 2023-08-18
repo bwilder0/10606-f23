@@ -34,9 +34,8 @@ For the above topics, we intend to give complete definitions and/or resources to
 
 The grade of the course is calculated as follows:
 
-* Homeworks: 50%. There will be one homework assignment due at the end of each week.
+* Homeworks: 60%. There will be one homework assignment due at the end of each week.
 * Quizzes: 40%. There will be three quizzes, given in class. Roughly, these are scheduled for the beginning of the third week, beginning of the fifth week, and during the last week. Dates will be announced at least one week before. You are required to attend class and complete these in person unless you have an excused absence (for exceptional circumstances only, defined below).
-* Participation: 10%. Based on attendance in lectures and participation in in-class polls.
 
 We plan to use the following cutoffs:
 
@@ -53,8 +52,6 @@ Some programs use +/- grades as well as full letter grades. If your program is o
 ≥ 90%:	A-
 
 and similarly for B, C, D.
-
-We may be more generous than the above cutoffs, but we will not be less generous.
 
 ## Resources
 
