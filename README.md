@@ -2,7 +2,7 @@
 
 Instrutor: Bryan Wilder (bwilder@andrew.cmu.edu)
 
-TAs: Tolani Olarinre (molarinr@andrew.cmu.edu) and Nandini Neralagi (nneralag@andrew.cmu.edu)
+TAs: TBD
 
 Office hours: TBD
 
