@@ -13,7 +13,7 @@ Office hours: TBD
 ## Logistics
 
 Questions: Piazza\
-Assignment submission: Gradescope
+Assignment submission: Gradescope\
 Both of the above can be accessed through the course Canvas page.
 
 ## Course Description
