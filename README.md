@@ -6,7 +6,7 @@ TAs: \
 Valerie Chen (vchen2@andrew.cmu.edu)\
 Nandini Neralagi (nneralag@andrew.cmu.edu)\
 Meghana Rajeev (mrajeev@andrew.cmu.edu)\
-Jocelyn Tseng (jocelynt@andrew.cmu.edu)\
+Jocelyn Tseng (jocelynt@andrew.cmu.edu)
 
 Office hours: TBD
 
