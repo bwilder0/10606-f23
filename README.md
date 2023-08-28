@@ -19,6 +19,33 @@ Both of the above can be accessed through the course Canvas page.
 ## Course Description
 This course provides a place for students to practice the necessary mathematical background for further study in machine learning. Topics covered include probability (random variables, modeling with continuous and discrete distributions), linear algebra (inner product spaces, linear operators), and multivariate differential calculus (partial derivatives, matrix differentials). The course assumes some background in each of the above, but will review and give practice in each. (It does not provide from-scratch coverage of all of the above, which would be impossible in a course of this length.) Some coding will be required: the course will provide practice with translating the above mathematical concepts into concrete programs.
 
+## Course Schedule
+
+| Week | Dates       | Topic                                               | Assignments                              |
+|:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1    | Mon: Aug 28  | Class intro, sets||
+| 1    | Wed: Aug 30  | Data types and functions||
+| 1    | Fri: Sep 1  | No recitation|Homework 1 due Sunday|
+| 2    | Mon: Sep 4  | No class (Labor day)||
+| 2    | Wed: Sep 6  | Linear algebra foundations||
+| 2    | Fri: Sep 8  | Recitation|Homework 2a due Sunday|
+| 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces||
+| 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination| |
+| 3    | Fri: Sep 15  | Recitation|Homework 2b due Sunday|
+| 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression||
+| 4    | Wed: Sep 20  | Matrix calculus||
+| 4    | Fri: Sep 22  | Recitation|Homework 3 due Sunday|
+| 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
+| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization||
+| 5    | Fri: Sep 29  | Recitation|Homework 4 due Sunday|
+| 6    | Mon: Oct 2  | Probability||
+| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions||
+| 6    | Fri: Oct 6  | Recitation|Homework 5 due Sunday|
+| 7    | Mon: Oct 9  | Bayes' rule, maximum likelihood and MAP estimators||
+| 7    | Wed: Oct 11  | Moments, independence, correlation + review||
+| 7    | Fri: Oct 13  | __Quiz 3__ |Homework 6 due Sunday|
+
+
 ## Relationship between 10-606 and 10-607
 These two minis are intended to prepare students for further study in machine learning – particularly for taking 10-601 and 10-701. One of the courses (10-606) focuses on mathematical background, and the other course (10-607) focuses on computational background. Most students take both mini courses, but this is not required. 10-606 is not a prerequisite of 10-607.
 
@@ -55,7 +82,7 @@ Some programs use +/- grades as well as full letter grades. If your program is o
 ≥ 93%:	A\
 ≥ 90%:	A-
 
-and similarly for B, C, D.
+and similarly for B, C, D. Each individual component (e.g. a quiz) may be curved upwards at the end. As well, the cutoffs above are merely an upper bound, at the end they may be adjusted down (i.e., to your benefit).
 
 ## Resources
 
@@ -111,31 +138,16 @@ If you have a disability and have an accommodations letter from the Disability R
 
 Please take care of yourself. Do your best to maintain a healthy lifestyle this semester by eating well, exercising, getting enough sleep, and taking some time to relax. This will help you achieve your goals and cope with stress. All of us benefit from support during times of struggle. There are many helpful resources available on campus. Please take advantage of them to support your overall health and wellness during challenging and stressful times (see, for example, Counseling and Psychological Services).
 
-## Course Schedule
+## Diversity Statement
+We must treat every individual with respect. We are diverse in many ways, and this diversity is fundamental to building and maintaining an equitable and inclusive campus community. Diversity can refer to multiple ways that we identify ourselves, including but not limited to race, color, national origin, language, sex, disability, age, sexual orientation, gender identity, religion, creed, ancestry, belief, veteran status, or genetic information. Each of these diverse identities, along with many others not mentioned here, shape the perspectives our students, faculty, and staff bring to our campus. We, at CMU, will work to promote diversity, equity and inclusion not only because diversity fuels excellence and innovation, but because we want to pursue justice. We acknowledge our imperfections while we also fully commit to the work, inside and outside of our classrooms, of building and sustaining a campus community that increasingly embraces these core values.
 
-| Week | Dates       | Topic                                               | Assignments                              |
-|:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1    | Mon: Aug 28  | Class intro, sets||
-| 1    | Wed: Aug 30  | Data types and functions||
-| 1    | Fri: Sep 1  | No recitation|Homework 1 due Sunday|
-| 2    | Mon: Sep 4  | No class (Labor day)||
-| 2    | Wed: Sep 6  | Linear algebra foundations||
-| 2    | Fri: Sep 8  | Recitation|Homework 2a due Sunday|
-| 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces||
-| 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination| |
-| 3    | Fri: Sep 15  | Recitation|Homework 2b due Sunday|
-| 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression||
-| 4    | Wed: Sep 20  | Matrix calculus||
-| 4    | Fri: Sep 22  | Recitation|Homework 3 due Sunday|
-| 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
-| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization||
-| 5    | Fri: Sep 29  | Recitation|Homework 4 due Sunday|
-| 6    | Mon: Oct 2  | Probability||
-| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions||
-| 6    | Fri: Oct 6  | Recitation|Homework 5 due Sunday|
-| 7    | Mon: Oct 9  | Bayes' rule, maximum likelihood and MAP estimators||
-| 7    | Wed: Oct 11  | Moments, independence, correlation + review||
-| 7    | Fri: Oct 13  | __Quiz 3__ |Homework 6 due Sunday|
+Each of us is responsible for creating a safer, more inclusive environment.
+
+Unfortunately, incidents of bias or discrimination do occur, whether intentional or unintentional. They contribute to creating an unwelcoming environment for individuals and groups at the university. Therefore, the university encourages anyone who experiences or observes unfair or hostile treatment on the basis of identity to speak out for justice and support, within the moment of the incident or after the incident has passed. Anyone can share these experiences using the following resources:
+
+Center for Student Diversity and Inclusion: csdi@andrew.cmu.edu, (412) 268-2150
+Ethics Reporting Hotline. Students, faculty, and staff can anonymously file a report by calling 844-587-0793 or visiting https://cmu.ethicspoint.com
+All reports will be documented and deliberated to determine if there should be any following actions. Regardless of incident type, the university will use all shared experiences to transform our campus climate to be more equitable and just.
 
 ## Attribution
 
