@@ -2,15 +2,19 @@
 
 Instrutor: Bryan Wilder (bwilder@andrew.cmu.edu)
 
-TAs: TBD
+TAs: \
+Valerie Chen (vchen2@andrew.cmu.edu)\
+Nandini Neralagi (nneralag@andrew.cmu.edu)\
+Meghana Rajeev (mrajeev@andrew.cmu.edu)\
+Jocelyn Tseng (jocelynt@andrew.cmu.edu)\
 
 Office hours: TBD
 
 ## Logistics
 
-Course content: Canvas\
 Questions: Piazza\
 Assignment submission: Gradescope
+Both of the above can be accessed through the course Canvas page.
 
 ## Course Description
 This course provides a place for students to practice the necessary mathematical background for further study in machine learning. Topics covered include probability (random variables, modeling with continuous and discrete distributions), linear algebra (inner product spaces, linear operators), and multivariate differential calculus (partial derivatives, matrix differentials). The course assumes some background in each of the above, but will review and give practice in each. (It does not provide from-scratch coverage of all of the above, which would be impossible in a course of this length.) Some coding will be required: the course will provide practice with translating the above mathematical concepts into concrete programs.
