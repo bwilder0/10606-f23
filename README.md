@@ -116,10 +116,10 @@ Please take care of yourself. Do your best to maintain a healthy lifestyle this 
 | 1    | Fri: Sep 1  | No recitation|Homework 1 due|
 | 2    | Mon: Sep 4  | No class (Labor day)||
 | 2    | Wed: Sep 6  | Linear algebra foundations||
-| 2    | Fri: Sep 8  | Recitation||
+| 2    | Fri: Sep 8  | Recitation|Homework 2a due|
 | 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces||
 | 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination| |
-| 3    | Fri: Sep 15  | Recitation|Homework 2 due|
+| 3    | Fri: Sep 15  | Recitation|Homework 2b due|
 | 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression||
 | 4    | Wed: Sep 20  | Matrix calculus||
 | 4    | Fri: Sep 22  | Recitation|Homework 3 due|
