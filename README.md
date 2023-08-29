@@ -131,6 +131,10 @@ Some of the assignments used in this class may have been used in prior versions 
 
 You are encouraged to read books and other instructional materials, both online and offline, to help you understand the concepts and algorithms taught in class. These materials may contain example code or pseudo code, which may help you better understand an algorithm or an implementation detail. However, when you implement your own solution to an assignment, you must put all materials aside, and write your code completely on your own, starting “from scratch”. Specifically, you may not use any code you found or came across. If you find or come across code that implements any part of your assignment, you must disclose this fact in your collaboration statement.
 
+### AI Assistance
+
+To best support your own learning, you should complete all graded assignments in this course yourself, without any use of generative artificial intelligence (AI). Please refrain from using AI tools to generate any content (text, video, audio, images, code, etc.) for an assignment or classroom exercise. Passing off any AI generated content as your own (e.g., cutting and pasting content into written assignments, or paraphrasing AI content) constitutes a violation of CMU’s academic integrity policy. If you have any questions about using generative AI in this course please email or talk to the instructor.
+
 ### Accommodations for students with disabilities
 If you have a disability and have an accommodations letter from the Disability Resources office, we encourage you to discuss your accommodations and needs with us as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, we encourage you to visit their website.
  
