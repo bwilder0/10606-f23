@@ -24,7 +24,7 @@ This course provides a place for students to practice the necessary mathematical
 | Week | Dates       | Topic                                               | Assignments                              |
 |:----:|-------------|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | Mon: Aug 28  | Class intro, sets [[Lecture notes]](files/notes_sets.pdf)||
-| 1    | Wed: Aug 30  | Data types and functions [[Lecture notes]](files/notes_types.pdf)||
+| 1    | Wed: Aug 30  | Data types and functions [[Lecture notes]](files/notes_types.pdf) [[Colab notebook](https://colab.research.google.com/drive/1XllrOrSr0a9YP9jfwet9QiBe2zUaNVbx?usp=sharing)]||
 | 1    | Fri: Sep 1  | No recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Sep 4  | No class (Labor day)||
 | 2    | Wed: Sep 6  | Linear algebra foundations||
