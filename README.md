@@ -8,7 +8,7 @@ Nandini Neralagi (nneralag@andrew.cmu.edu)\
 Meghana Rajeev (mrajeev@andrew.cmu.edu)\
 Jocelyn Tseng (jocelynt@andrew.cmu.edu)
 
-Office hours: TBD
+Office hours: see schedule in Canvas
 
 ## Logistics
 
@@ -28,7 +28,7 @@ This course provides a place for students to practice the necessary mathematical
 | 1    | Fri: Sep 1  | No recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Sep 4  | No class (Labor day)||
 | 2    | Wed: Sep 6  | Linear algebra foundations||
-| 2    | Fri: Sep 8  | Recitation|Homework 2a due Sunday|
+| 2    | Fri: Sep 8  | Recitation|[Homework 2a](files/hw2a.pdf) due Sunday|
 | 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces||
 | 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination| |
 | 3    | Fri: Sep 15  | Recitation|Homework 2b due Sunday|
