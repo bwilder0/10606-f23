@@ -28,7 +28,7 @@ This course provides a place for students to practice the necessary mathematical
 | 1    | Fri: Sep 1  | No recitation|[Homework 1](files/Homework-1.pdf) due Sunday|
 | 2    | Mon: Sep 4  | No class (Labor day)||
 | 2    | Wed: Sep 6  | Linear algebra foundations [[Lecture notes]](files/notes_linalg.pdf) [[Slides]](files/Lecture_3.pptx)|||
-| 2    | Fri: Sep 8  | Recitation|[Homework 2a](files/hw2a.pdf) due Sunday|
+| 2    | Fri: Sep 8  | Recitation [[Slides]](files/recitation1slides.pdf)|[Homework 2a](files/hw2a.pdf) due Sunday|
 | 3    | Mon: Sep 11  | __Quiz 1__ + Vector spaces [[Lecture notes]](files/notes_vectorspace.pdf)||
 | 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination [[Lecture notes]](files/notes_matrices.pdf)| |
 | 3    | Fri: Sep 15  | Recitation|[Homework 2b](files/hw2b_updated.pdf) due Sunday|
