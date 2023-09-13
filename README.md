@@ -34,7 +34,7 @@ This course provides a place for students to practice the necessary mathematical
 | 3    | Fri: Sep 15  | Recitation|[Homework 2b](files/hw2b_updated.pdf) due Sunday|
 | 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression||
 | 4    | Wed: Sep 20  | Matrix calculus||
-| 4    | Fri: Sep 22  | Recitation|Homework 3 due Sunday|
+| 4    | Fri: Sep 22  | Recitation|[Homework 3](files/homework_3.pdf) due Sunday|
 | 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
 | 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization||
 | 5    | Fri: Sep 29  | Recitation|Homework 4 due Sunday|
