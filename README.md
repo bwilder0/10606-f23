@@ -36,7 +36,7 @@ This course provides a place for students to practice the necessary mathematical
 | 4    | Wed: Sep 20  | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)||
 | 4    | Fri: Sep 22  | Recitation|[Homework 3](files/Homework-3.pdf) due Sunday|
 | 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
-| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization||
+| 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization [[Slides]](files/Lecture9.pptx)||
 | 5    | Fri: Sep 29  | Recitation|[Homework 4](files/hw_4.pdf) due Sunday|
 | 6    | Mon: Oct 2  | Probability||
 | 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions||
