@@ -33,7 +33,7 @@ This course provides a place for students to practice the necessary mathematical
 | 3    | Wed: Sep 13  | Matrix operations and Gaussian elimination [[Lecture notes]](files/notes_matrices.pdf) [[Slides]](files/Lecture5.pptx)| |
 | 3    | Fri: Sep 15  | Recitation|[Homework 2b](files/hw2b_updated.pdf) due Sunday|
 | 4    | Mon: Sep 18  | Matrix factorization, SVD, and linear regression [[Lecture notes]](files/notes_matrixproperties.pdf) [[Slides]](files/Lecture6.pptx)||
-| 4    | Wed: Sep 20  | Matrix calculus [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)||
+| 4    | Wed: Sep 20  | Matrix calculus [[Slides]](files/Lecture7.pptx) [[Matrix Cookbook]](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)||
 | 4    | Fri: Sep 22  | Recitation|[Homework 3](files/Homework-3.pdf) due Sunday|
 | 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
 | 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization [[Slides]](files/Lecture9.pptx)||
