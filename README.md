@@ -38,12 +38,12 @@ This course provides a place for students to practice the necessary mathematical
 | 5    | Mon: Sep 25  | __Quiz 2__ + Convexity and optimization||
 | 5    | Wed: Sep 27  | Lagrange multipliers, linear regression and regularization [[Slides]](files/Lecture9.pptx)||
 | 5    | Fri: Sep 29  | Recitation|[Homework 4](files/hw_4.pdf) due Sunday|
-| 6    | Mon: Oct 2  | Probability [[Lecture notes]](files/notes_probability.pdf) [[Slides]](files/Lecture10.pptx)||
-| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions ||
+| 6    | Mon: Oct 2  | Probability [[Lecture notes 1]](files/notes_probability.pdf) [[Lecture notes 2]](files/notes_RVs.pdf)  [[Slides]](files/Lecture10.pptx)||
+| 6    | Wed: Oct 4  | Joint, marginal, and conditional distributions [[Lecture notes]](files/notes_factorization.pdf) [[Slides]](files/Lecture11.pptx) ||
 | 6    | Fri: Oct 6  | Recitation|[Homework 5](files/hw5.pdf) due Sunday|
 | 7    | Mon: Oct 9  | Bayes' rule, maximum likelihood and MAP estimators||
-| 7    | Wed: Oct 11  | Moments, independence, correlation + review||
-| 7    | Fri: Oct 13  | __Quiz 3__ |Homework 6 due Sunday|
+| 7    | Wed: Oct 11  | Moments, independence, correlation + review [[Lecture notes]](files/notes_moments.pdf)||
+| 7    | Fri: Oct 13  | __Quiz 3__ |[Homework 6](files/Homework-7.pdf) due Sunday|
 
 
 ## Relationship between 10-606 and 10-607
